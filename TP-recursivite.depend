@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1706102552 source:c:\users\valar\desktop\m1_esmt\algo\tp-recursivite\functionrec.c
+	"functionRec.h"
+
+1706102431 c:\users\valar\desktop\m1_esmt\algo\tp-recursivite\functionrec.h
+
+1706102525 source:c:\users\valar\desktop\m1_esmt\algo\tp-recursivite\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functionRec.h"
+
+1706100846 c:\users\valar\desktop\m1_esmt\algo\tp-recursivite\functionrec.c
+	"functionRec.h"
+
